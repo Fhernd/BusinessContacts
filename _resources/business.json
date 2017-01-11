@@ -1,0 +1,62 @@
+{
+  "0": {
+   "category": "Retail", 
+   "city": "Milwaukee", 
+   "company": "JumpXS",
+   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", 
+   "email": "retailcop@mail.com",
+   "phone": "1234987", 
+   "state": "Wisconsin", 
+   "street_address": "Street", 
+   "years_in_business": 7, 
+   "zipcode": "5236"
+  },
+  "1": {
+   "category": "IT", 
+   "city": "New York", 
+   "company": "NYIT",
+   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", 
+   "email": "it@mail.com",
+   "phone": "987321", 
+   "state": "New York", 
+   "street_address": "Street", 
+   "years_in_business": 5, 
+   "zipcode": "1234"
+  }, 
+  "2": {
+   "category": "Marketing", 
+   "city": "Washington", 
+   "company": "MoreMarketing",
+   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", 
+   "email": "marketing@mail.com",
+   "phone": "67548", 
+   "state": "Washington", 
+   "street_address": "Street", 
+   "years_in_business": 10, 
+   "zipcode": "9183"
+  },
+  "3": {
+   "category": "Food", 
+   "city": "Phoenix", 
+   "company": "FreshFood",
+   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", 
+   "email": "food@mail.com",
+   "phone": "839521", 
+   "state": "Arizona", 
+   "street_address": "Street", 
+   "years_in_business": 3, 
+   "zipcode": "3094"
+  },
+  "4": {
+   "category": "IT", 
+   "city": "Atlanta", 
+   "company": "Nova IT",
+   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", 
+   "email": "novait@mail.com",
+   "phone": "389237", 
+   "state": "Georgia", 
+   "street_address": "Street", 
+   "years_in_business": 6, 
+   "zipcode": "9832"
+  }
+}
